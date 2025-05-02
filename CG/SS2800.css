@@ -276,9 +276,23 @@
 	padding-left: 10px;
 	padding-top: 285px;
 }
-#a2736 {
+#a2736-1 {
 	color: #000;
-	background-image: url(2800/2736.jpg);	height: 225px;
+	background-image: url(2800/2736-1.jpg);	height: 225px;
+	width: 390px;
+	padding-left: 10px;
+	padding-top: 285px;
+}
+#a2736-2 {
+	color: #000;
+	background-image: url(2800/2736-2.jpg);	height: 225px;
+	width: 390px;
+	padding-left: 10px;
+	padding-top: 285px;
+}
+#a2736-3 {
+	color: #000;
+	background-image: url(2800/2736-3.jpg);	height: 225px;
 	width: 390px;
 	padding-left: 10px;
 	padding-top: 285px;
