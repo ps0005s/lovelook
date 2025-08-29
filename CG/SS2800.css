@@ -1,7 +1,7 @@
 </style>
 #aa {
 	color: #000;
-	background-image: url(2800/2700a.jpg);	height: 225px;
+	background-image: url(2800/270.jpg);	height: 225px;
 	width: 390px;
 	padding-left: 10px;
 	padding-top: 285px;
@@ -589,11 +589,19 @@
 	padding-left: 10px;
 	padding-top: 285px;
 }
-#a2775 {
+#a2775a {
 	color: #000;
-	background-image: url(2800/2775.jpg);
+	background-image: url(2800/2775a.jpg);
 	height: 225px;
-	width: 390px;
+	width: 590px;
+	padding-left: 10px;
+	padding-top: 285px;
+}
+#a2775b {
+	color: #000;
+	background-image: url(2800/2775b.jpg);
+	height: 225px;
+	width: 590px;
 	padding-left: 10px;
 	padding-top: 285px;
 }
