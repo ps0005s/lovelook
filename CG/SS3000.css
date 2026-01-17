@@ -304,12 +304,12 @@
 	color: #000;
 	background-image: url(3000/2939.jpg);
 	height: 225px;
-	width: 390px;
+	width: 590px;
 	padding-left: 10px;
 	padding-top: 285px;
 }
 #a2940 {
-	color: #000;
+	color: #F00;
 	background-image: url(3000/2940.jpg);
 	height: 225px;
 	width: 390px;
@@ -409,8 +409,9 @@
 }
 #a2953 {
 	color: #000;
-	background-image: url(3000/2953.jpg);	height: 225px;
-	width: 390px;
+	background-image: url(3000/2953.jpg);	
+	height: 225px;
+	width: 590px;
 	padding-left: 10px;
 	padding-top: 285px;
 }
