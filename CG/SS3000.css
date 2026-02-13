@@ -573,7 +573,7 @@
 #a2974 {
 	color: #000;
 	background-image: url(3000/2974.jpg);	height: 225px;
-	width: 390px;
+	width: 590px;
 	padding-left: 10px;
 	padding-top: 285px;
 }
@@ -593,7 +593,7 @@
 	padding-top: 285px;
 }
 #a2977 {
-	color: #000;
+	color: #F00;
 	background-image: url(3000/2977.jpg);
 	height: 225px;
 	width: 390px;
@@ -645,9 +645,17 @@
 	padding-left: 10px;
 	padding-top: 285px;
 }
-#a2984 {
+#a2984a {
 	color: #000;
-	background-image: url(3000/2984.jpg);
+	background-image: url(3000/2984a.jpg);
+	height: 225px;
+	width: 390px;
+	padding-left: 10px;
+	padding-top: 285px;
+}
+#a2984b {
+	color: #000;
+	background-image: url(3000/2984b.jpg);
 	height: 225px;
 	width: 390px;
 	padding-left: 10px;
