@@ -15,6 +15,15 @@
 	padding-left: 15px;
 	padding-top: 465px;
 }
+#FGOB {
+	color: #000;
+	background-image: url(mini/FGOB.jpg);
+	height: 45px;
+	width: 585px;
+	padding-left: 15px;
+	padding-top: 465px;
+}
+
 #L001 {
 	color: #000;
 	background-image: url(mini/B02.jpg);
