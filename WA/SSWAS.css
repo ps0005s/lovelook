@@ -9,7 +9,7 @@
 }
 #a0010 {
 	color: #000;
-	background-image: url(WAS/0010.jpg);
+	background-image: url(CG/WAS/0010.jpg);
 	height: 225px;
 	width: 390px;
 	padding-left: 10px;
@@ -24,6 +24,14 @@
 	padding-left: 10px;
 	padding-top: 285px;
 }
+#T02 {
+	color: #000;
+	background-image: url(CG/WAS/T02.jpg);
+	height: 225px;
+	width: 390px;
+	padding-left: 10px;
+	padding-top: 285px;
+}
 #L001 {
 	color: #000;
 	background-image: url(Large/Large01.jpg);
@@ -34,7 +42,7 @@
 }
 #T01 {
 	color: #000;
-	background-image: url(WAS/T01.jpg);
+	background-image: url(CG/WAS/T01.jpg);
 	height: 225px;
 	width: 590px;
 	padding-left: 10px;
@@ -43,7 +51,7 @@
 
 #a0007 {
 	color: #000;
-	background-image: url(WAS/0007.jpg);
+	background-image: url(CG/WAS/0007.jpg);
 	height: 225px;
 	width: 390px;
 	padding-left: 10px;
@@ -51,7 +59,7 @@
 }
 #a0008 {
 	color: #000;
-	background-image: url(WAS/0008.jpg);
+	background-image: url(CG/WAS/0008.jpg);
 	height: 225px;
 	width: 390px;
 	padding-left: 10px;
@@ -59,7 +67,7 @@
 }
 #a00009 {
 	color: #000;
-	background-image: url(WAS/00009.jpg);
+	background-image: url(CG/WAS/00009.jpg);
 	height: 225px;
 	width: 390px;
 	padding-left: 10px;
@@ -68,7 +76,7 @@
 
 #a2901 {
 	color: #000;
-	background-image: url(WAS/0002.jpg);
+	background-image: url(CG/WAS/0002.jpg);
 	height: 225px;
 	width: 390px;
 	padding-left: 10px;
@@ -76,7 +84,7 @@
 }
 #a2902 {
 	color: #000;
-	background-image: url(WAS/0003.jpg);
+	background-image: url(CG/WAS/0003.jpg);
 	height: 225px;
 	width: 390px;
 	padding-left: 10px;
@@ -84,7 +92,7 @@
 }
 #a2903 {
 	color: #000;
-	background-image: url(WAS/0000.jpg);
+	background-image: url(CG/WAS/0000.jpg);
 	height: 225px;
 	width: 390px;
 	padding-left: 10px;
@@ -92,7 +100,7 @@
 }
 #a2904 {
 	color: #000;
-	background-image: url(WAS/0001.jpg);
+	background-image: url(CG/WAS/0001.jpg);
 	height: 225px;
 	width: 390px;
 	padding-left: 10px;
@@ -100,7 +108,7 @@
 }
 #a2905 {
 	color: #000;
-	background-image: url(WAS/0004.jpg);
+	background-image: url(CG/WAS/0004.jpg);
 	height: 225px;
 	width: 390px;
 	padding-left: 10px;
@@ -108,7 +116,7 @@
 }
 #a2906 {
 	color: #000;
-	background-image: url(WAS/0005.jpg);
+	background-image: url(CG/WAS/0005.jpg);
 	height: 225px;
 	width: 390px;
 	padding-left: 10px;
@@ -116,7 +124,7 @@
 }
 #a2907 {
 	color: #000;
-	background-image: url(WAS/0006.jpg);
+	background-image: url(CG/WAS/0006.jpg);
 	height: 225px;
 	width: 390px;
 	padding-left: 10px;

@@ -48,6 +48,22 @@
 	padding-top: 285px;
 }
 
+#cat01 {
+	color: #000;
+	background-image: url(CG/WA/cat01.jpg);
+	height: 225px;
+	width: 390px;
+	padding-left: 10px;
+	padding-top: 285px;
+}
+#cat02 {
+	color: #000;
+	background-image: url(CG/WA/cat02.jpg);
+	height: 225px;
+	width: 390px;
+	padding-left: 10px;
+	padding-top: 285px;
+}
 #c13 {
 	color: #000;
 	background-image: url(CG/WA/c13.jpg);
