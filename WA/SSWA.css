@@ -15,9 +15,26 @@
 	padding-left: 10px;
 	padding-top: 285px;
 }
-#DD02 {
+#a10071 {
 	color: #000;
-	background-image: url(CG/WA/DD02.jpg);
+	background-image: url(CG/WA/10071.jpg);
+	height: 225px;
+	width: 390px;
+	padding-left: 10px;
+	padding-top: 285px;
+}
+
+#a10072 {
+	color: #000;
+	background-image: url(CG/WA/10072.jpg);
+	height: 225px;
+	width: 390px;
+	padding-left: 10px;
+	padding-top: 285px;
+}
+#a10073 {
+	color: #000;
+	background-image: url(CG/WA/10073.jpg);
 	height: 225px;
 	width: 390px;
 	padding-left: 10px;
@@ -26,6 +43,14 @@
 #DD01 {
 	color: #000;
 	background-image: url(CG/WA/DD01.jpg);
+	height: 225px;
+	width: 390px;
+	padding-left: 10px;
+	padding-top: 285px;
+}
+#DD02 {
+	color: #000;
+	background-image: url(CG/WA/DD02.jpg);
 	height: 225px;
 	width: 390px;
 	padding-left: 10px;
