@@ -153,9 +153,25 @@
 	padding-left: 10px;
 	padding-top: 285px;
 }
-#a3020 {
+#a3020a {
 	color: #000;
-	background-image: url(3100/3020.jpg);
+	background-image: url(3100/3020a.jpg);
+	height: 225px;
+	width: 390px;
+	padding-left: 10px;
+	padding-top: 285px;
+}
+#a3020b {
+	color: #000;
+	background-image: url(3100/3020b.jpg);
+	height: 225px;
+	width: 390px;
+	padding-left: 10px;
+	padding-top: 285px;
+}
+#a3020c {
+	color: #000;
+	background-image: url(3100/3020c.jpg);
 	height: 225px;
 	width: 390px;
 	padding-left: 10px;
@@ -740,7 +756,7 @@
 	color: #000;
 	background-image: url(3100/3094.jpg);
 	height: 225px;
-	width: 390px;
+	width: 590px;
 	padding-left: 10px;
 	padding-top: 285px;
 }
@@ -787,7 +803,7 @@
 	color: #000;
 	background-image: url(3100/3100.jpg);
 	height: 225px;
-	width: 390px;
+	width: 790px;
 	padding-left: 10px;
 	padding-top: 285px;
 }
