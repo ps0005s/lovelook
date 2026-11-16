@@ -104,7 +104,15 @@
 	color: #000;
 	background-image: url(3200/3113.jpg);
 	height: 225px;
-	width: 390px;
+	width: 590px;
+	padding-left: 10px;
+	padding-top: 285px;
+}
+#a3113DX {
+	color: #000;
+	background-image: url(3200/3113DX.jpg);
+	height: 225px;
+	width: 590px;
 	padding-left: 10px;
 	padding-top: 285px;
 }
@@ -308,10 +316,10 @@
 	padding-top: 285px;
 }
 #a3140 {
-	color: #000;
+	color: #F00;
 	background-image: url(3200/3140.jpg);
 	height: 225px;
-	width: 390px;
+	width: 590px;
 	padding-left: 10px;
 	padding-top: 285px;
 }
@@ -371,7 +379,7 @@
 	color: #000;
 	background-image: url(3200/3148.jpg);
 	height: 225px;
-	width: 390px;
+	width: 590px;
 	padding-left: 10px;
 	padding-top: 285px;
 }
@@ -402,7 +410,7 @@
 #a3152 {
 	color: #000;
 	background-image: url(3200/3152.jpg);	height: 225px;
-	width: 390px;
+	width: 590px;
 	padding-left: 10px;
 	padding-top: 285px;
 }
@@ -739,6 +747,14 @@
 #a3196 {
 	color: #000;
 	background-image: url(3200/3196.jpg);
+	height: 225px;
+	width: 390px;
+	padding-left: 10px;
+	padding-top: 285px;
+}
+#a3196DX {
+	color: #000;
+	background-image: url(3200/3196DX.jpg);
 	height: 225px;
 	width: 390px;
 	padding-left: 10px;
